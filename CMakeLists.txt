@@ -3,4 +3,4 @@ project(Sort_Array_and_Binary_Search)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(Sort_Array_and_Binary_Search main.cpp)
+add_executable(Sort_Array_and_Binary_Search arr_binary.cpp)
